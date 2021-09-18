@@ -1,6 +1,6 @@
 # Databases
 
-Stack of databases for Docker by using docker-compose.
+Stack of databases run on Docker by using docker-compose.
 
 ## Supported Database :white_check_mark:
 | Name | Version | Remark |
